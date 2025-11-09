@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // base 要設定成 "/angela-maid/"
 export default defineConfig({
   plugins: [react()],
-  base: "/AH_MBinH/"
+  base: "/AH_MBinHK/"
 });
